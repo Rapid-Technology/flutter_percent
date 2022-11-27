@@ -1,6 +1,6 @@
 # Flutter Percent 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GUW67K9zBEg/0.jpg)](https://www.youtube.com/watch?v=GUW67K9zBEg)
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/GUW67K9zBEg/maxresdefault.jpg)](https://www.youtube.com/watch?v=GUW67K9zBEg)
 
 A new Flutter project.
 
