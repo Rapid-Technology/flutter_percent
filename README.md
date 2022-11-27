@@ -1,6 +1,6 @@
-# Flutter Percent 
+# Flutter Circular & Linear Percentage 
+
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/GUW67K9zBEg/maxresdefault.jpg)](https://www.youtube.com/watch?v=GUW67K9zBEg)
-A new Flutter project.
 
 ## Getting Started
 
